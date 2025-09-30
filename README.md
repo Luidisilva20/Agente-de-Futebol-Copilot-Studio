@@ -9,7 +9,6 @@ O objetivo principal é fornecer respostas precisas e detalhadas sobre uma vasta
 A imagem abaixo apresenta a configuração geral do agente na interface do Copilot Studio:
 
 ![Configuração do Agente no Copilot Studio](image_e9b3d0.png.png)
-![Configuração do Agente no Copilot Studio]("2025-09-30 151219.png")
 
 ## ✨ Funcionalidades e Conhecimentos
 
